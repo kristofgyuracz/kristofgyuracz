@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. kristof (used 184 times)
 3. gyuracz (used 184 times)
 4. <kristof.gyuracz@gmail.com> (used 158 times)
-5. add (used 36 times)
+5. add (used 35 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
