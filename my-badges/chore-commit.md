@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/kube-logging/logging-operator/commit/7f51d5b3fdeb8fdf671863aace2985ffc8f5afe2">7f51d5b</a>: chore(syslog-ng-loki-output): update docs
+- <a href="https://github.com/kube-logging/telemetry-controller/commit/ecba130f15c2b4193c8ba2dbe4f6e8dc337e209e">ecba130</a>: chore(otel_conf_gen): improve handling of exporter names
 
-Signed-off-by: Kristof Gyuracz <kristof.gyuracz@gmail.com>
+Signed-off-by: Kristof Gyuracz <kristof.gyuracz@axoflow.com>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
