@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;a&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/kube-logging/telemetry-controller/commit/ae08e2a688fb38e9596a38ea6fe3f47a23b3b8da"><strong>a</strong>e08e2a688fb38e9596a38ea6fe3f47a23b3b8da</a>
+- <a href="https://github.com/OverOrion/opentelemetry-collector-contrib/commit/aa2a2461615b6a62b053bdba5f4296c5c35ce456"><strong>a</strong>a2a2461615b6a62b053bdba5f4296c5c35ce456</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
