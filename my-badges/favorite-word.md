@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. signed-off-by: (used 216 times)
-2. kristof (used 206 times)
-3. gyuracz (used 206 times)
+1. signed-off-by: (used 220 times)
+2. kristof (used 210 times)
+3. gyuracz (used 210 times)
 4. <kristof.gyuracz@gmail.com> (used 158 times)
-5. <kristof.gyuracz@axoflow.com> (used 48 times)
+5. <kristof.gyuracz@axoflow.com> (used 52 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
