@@ -38,7 +38,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/78b49f430f3949261ed02df3239af99ca6fe08e7\">78b49f4</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/b0731f65bf27b0d614ecbdd9ab0d539b6ffa80cb\">b0731f6</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/ed32153aa19bba0ae95177eba4817ee84a15d414\">ed32153</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/43b7b43b0245a2da2ddfeba18a250016f13a830c\">43b7b43</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/30234d5e3c19a1821fb24589f0dcc4a2f3fb5ed9\">30234d5</a>\n- <a href=\"https://github.com/kube-logging/logging-operator/commit/4aba9c39dcc5b2bc5b25aa1ae66609cb95a14114\">4aba9c3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/78b49f430f3949261ed02df3239af99ca6fe08e7\">78b49f4</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/b0731f65bf27b0d614ecbdd9ab0d539b6ffa80cb\">b0731f6</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/ed32153aa19bba0ae95177eba4817ee84a15d414\">ed32153</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/43b7b43b0245a2da2ddfeba18a250016f13a830c\">43b7b43</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/30234d5e3c19a1821fb24589f0dcc4a2f3fb5ed9\">30234d5</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -87,7 +87,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"signed-off-by:\".",
-    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 234 times)\n2. kristof (used 224 times)\n3. gyuracz (used 224 times)\n4. <kristof.gyuracz@gmail.com> (used 158 times)\n5. <kristof.gyuracz@axoflow.com> (used 66 times)",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 148 times)\n2. kristof (used 144 times)\n3. gyuracz (used 144 times)\n4. <kristof.gyuracz@gmail.com> (used 86 times)\n5. <kristof.gyuracz@axoflow.com> (used 58 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {

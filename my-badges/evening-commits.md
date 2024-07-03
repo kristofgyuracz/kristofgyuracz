@@ -9,7 +9,6 @@ Commits:
 - <a href="https://github.com/kube-logging/telemetry-controller/commit/ed32153aa19bba0ae95177eba4817ee84a15d414">ed32153</a>
 - <a href="https://github.com/kube-logging/telemetry-controller/commit/43b7b43b0245a2da2ddfeba18a250016f13a830c">43b7b43</a>
 - <a href="https://github.com/kube-logging/telemetry-controller/commit/30234d5e3c19a1821fb24589f0dcc4a2f3fb5ed9">30234d5</a>
-- <a href="https://github.com/kube-logging/logging-operator/commit/4aba9c39dcc5b2bc5b25aa1ae66609cb95a14114">4aba9c3</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
