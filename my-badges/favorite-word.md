@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;signed-off-by:&quot;." title="My favorite word is &quot;signed-off-by:&quot;." width="128">
+<img src="https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;signed-off-by:&quot;." title="My favorite word is &quot;signed-off-by:&quot;." width="128">
 <strong>My favorite word is &quot;signed-off-by:&quot;.</strong>
 <br><br>
 
