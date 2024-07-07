@@ -4,14 +4,14 @@
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/OverOrion/opentelemetry-collector-contrib/commit/aa2a2461615b6a62b053bdba5f4296c5c35ce456\"><strong>a</strong>a2a2461615b6a62b053bdba5f4296c5c35ce456</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/a-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/aba8fb79638ad5572c4ae86cdb2482d9c8fb28ac\"><strong>ab</strong>a8fb79638ad5572c4ae86cdb2482d9c8fb28ac</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/ab-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "stars-100",
@@ -39,62 +39,62 @@
     "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/78b49f430f3949261ed02df3239af99ca6fe08e7\">78b49f4</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/b0731f65bf27b0d614ecbdd9ab0d539b6ffa80cb\">b0731f6</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/ed32153aa19bba0ae95177eba4817ee84a15d414\">ed32153</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/43b7b43b0245a2da2ddfeba18a250016f13a830c\">43b7b43</a>\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/30234d5e3c19a1821fb24589f0dcc4a2f3fb5ed9\">30234d5</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/github-anniversary/github-anniversary-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   },
   {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/github-anniversary/github-anniversary-10.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/0b4ff7c9bd0d7a0180f80606a68380eb18db4bf2\">0b4ff7c</a>: chore: update makefile and e2e script to handle macos\n\nSigned-off-by: Kristof Gyuracz <kristof.gyuracz@axoflow.com>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/chore-commit/chore-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/covid-19/covid-19.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/banzaicloud/istio-operator/pull/866\">#866</a>: add permissions for roles to support openshift policies",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/pr-collaboration/pr-collaboration-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
     "id": "public-keys-1",
     "tier": 1,
     "desc": "I have one public key",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/public-keys/public-keys-1.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"signed-off-by:\".",
     "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 148 times)\n2. kristof (used 144 times)\n3. gyuracz (used 144 times)\n4. <kristof.gyuracz@gmail.com> (used 86 times)\n5. <kristof.gyuracz@axoflow.com> (used 58 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/02012da4624339c237e0d0f1da40766b6aa92679\">02012da</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/cosmetic-commit/cosmetic-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   }
 ]
