@@ -96,5 +96,12 @@
     "desc": "I made cosmetic commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/02012da4624339c237e0d0f1da40766b6aa92679\">02012da</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   }
 ]
