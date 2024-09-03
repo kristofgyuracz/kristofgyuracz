@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/kube-logging/telemetry-controller/commit/00ce4e8d296fe59a8160cf91b52310af36dab8cb">00ce4e8</a>: chore(otel-api): update api references for otel v1beta1 api
+- <a href="https://github.com/kube-logging/telemetry-controller/commit/0edc8680a798acc06df9688ed3daad104303f62b">0edc868</a>: chore(api): clean up wrong comment
 
 Signed-off-by: Kristof Gyuracz <kristof.gyuracz@axoflow.com>
 
