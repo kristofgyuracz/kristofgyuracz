@@ -87,7 +87,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"signed-off-by:\".",
-    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 162 times)\n2. kristof (used 158 times)\n3. gyuracz (used 158 times)\n4. <kristof.gyuracz@gmail.com> (used 86 times)\n5. <kristof.gyuracz@axoflow.com> (used 72 times)",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 184 times)\n2. kristof (used 180 times)\n3. gyuracz (used 180 times)\n4. <kristof.gyuracz@axoflow.com> (used 94 times)\n5. <kristof.gyuracz@gmail.com> (used 86 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
