@@ -59,7 +59,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/0edc8680a798acc06df9688ed3daad104303f62b\">0edc868</a>: chore(api): clean up wrong comment\n\nSigned-off-by: Kristof Gyuracz <kristof.gyuracz@axoflow.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/124890304dfb42e4e09f70324c2708bde344a767\">1248903</a>: chore(controller): update confgen tests to reflect changes\n\nSigned-off-by: Kristof Gyuracz <kristof.gyuracz@axoflow.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"signed-off-by:\".",
-    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 184 times)\n2. kristof (used 180 times)\n3. gyuracz (used 180 times)\n4. <kristof.gyuracz@axoflow.com> (used 94 times)\n5. <kristof.gyuracz@gmail.com> (used 86 times)",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 192 times)\n2. kristof (used 188 times)\n3. gyuracz (used 188 times)\n4. <kristof.gyuracz@axoflow.com> (used 102 times)\n5. <kristof.gyuracz@gmail.com> (used 86 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {

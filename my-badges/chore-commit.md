@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/kube-logging/telemetry-controller/commit/0edc8680a798acc06df9688ed3daad104303f62b">0edc868</a>: chore(api): clean up wrong comment
+- <a href="https://github.com/kube-logging/telemetry-controller/commit/124890304dfb42e4e09f70324c2708bde344a767">1248903</a>: chore(controller): update confgen tests to reflect changes
 
 Signed-off-by: Kristof Gyuracz <kristof.gyuracz@axoflow.com>
 
