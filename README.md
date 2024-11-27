@@ -1,7 +1,5 @@
 ### Hi there 👋
 <!-- my-badges start -->
-<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
-
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/stars-100.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-100.png?raw=true" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
