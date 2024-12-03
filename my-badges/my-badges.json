@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/OverOrion/opentelemetry-collector-contrib/commit/aa2a2461615b6a62b053bdba5f4296c5c35ce456\"><strong>a</strong>a2a2461615b6a62b053bdba5f4296c5c35ce456</a>",
+    "body": "- <a href=\"https://github.com/arpad-csepi/KLI/commit/aed3b58c5b98cfdbad0d5346d296108dcd2930a0\"><strong>a</strong>ed3b58c5b98cfdbad0d5346d296108dcd2930a0</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -12,27 +12,6 @@
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/aba8fb79638ad5572c4ae86cdb2482d9c8fb28ac\"><strong>ab</strong>a8fb79638ad5572c4ae86cdb2482d9c8fb28ac</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "stars-100",
-    "tier": 1,
-    "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/kube-logging/logging-operator\">kube-logging/logging-operator: ★1512</a>\n* <a href=\"https://github.com/kube-logging/telemetry-controller\">kube-logging/telemetry-controller: ★26</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-100.png?raw=true"
-  },
-  {
-    "id": "stars-500",
-    "tier": 2,
-    "desc": "I collected 500 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/kube-logging/logging-operator\">kube-logging/logging-operator: ★1512</a>\n* <a href=\"https://github.com/kube-logging/telemetry-controller\">kube-logging/telemetry-controller: ★26</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-500.png?raw=true"
-  },
-  {
-    "id": "stars-1000",
-    "tier": 3,
-    "desc": "I collected 1000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/kube-logging/logging-operator\">kube-logging/logging-operator: ★1512</a>\n* <a href=\"https://github.com/kube-logging/telemetry-controller\">kube-logging/telemetry-controller: ★26</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-1000.png?raw=true"
   },
   {
     "id": "evening-commits",
@@ -96,12 +75,5 @@
     "desc": "I made cosmetic commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/kube-logging/telemetry-controller/commit/02012da4624339c237e0d0f1da40766b6aa92679\">02012da</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
-  },
-  {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   }
 ]
